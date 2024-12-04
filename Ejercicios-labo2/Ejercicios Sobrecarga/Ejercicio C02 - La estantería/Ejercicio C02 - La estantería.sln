@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio C02 - La estantería", "Ejercicio C02 - La estantería\Ejercicio C02 - La estantería.csproj", "{4BAD29E1-0B8B-413A-B194-E78193B313A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{87BCE6A1-0334-447C-BD41-1C57502655DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BAD29E1-0B8B-413A-B194-E78193B313A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAD29E1-0B8B-413A-B194-E78193B313A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAD29E1-0B8B-413A-B194-E78193B313A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAD29E1-0B8B-413A-B194-E78193B313A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BCE6A1-0334-447C-BD41-1C57502655DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BCE6A1-0334-447C-BD41-1C57502655DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BCE6A1-0334-447C-BD41-1C57502655DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BCE6A1-0334-447C-BD41-1C57502655DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89C8F3C1-1E02-43B6-A974-6120486ED2E6}
+	EndGlobalSection
+EndGlobal

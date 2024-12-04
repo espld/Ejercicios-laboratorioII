@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consola", "Consola\Consola.csproj", "{881B2C46-7E2B-44C4-9CAE-59DB335F4C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormularioHilos", "FormularioHilos\FormularioHilos.csproj", "{2BF560E7-BF3C-40C4-84C8-4C2D9CC0F6E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{881B2C46-7E2B-44C4-9CAE-59DB335F4C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881B2C46-7E2B-44C4-9CAE-59DB335F4C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881B2C46-7E2B-44C4-9CAE-59DB335F4C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881B2C46-7E2B-44C4-9CAE-59DB335F4C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF560E7-BF3C-40C4-84C8-4C2D9CC0F6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF560E7-BF3C-40C4-84C8-4C2D9CC0F6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF560E7-BF3C-40C4-84C8-4C2D9CC0F6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF560E7-BF3C-40C4-84C8-4C2D9CC0F6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48C54F87-4089-4155-83F8-D3B1BFBC9449}
+	EndGlobalSection
+EndGlobal

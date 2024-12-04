@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{87BF443A-A7FE-4A6F-8201-A6DEBA69E1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{A40DB465-C708-4035-B81F-E170D7F568B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{9907CAD1-4B2F-4E29-A4BE-10087A42C695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87BF443A-A7FE-4A6F-8201-A6DEBA69E1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BF443A-A7FE-4A6F-8201-A6DEBA69E1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BF443A-A7FE-4A6F-8201-A6DEBA69E1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BF443A-A7FE-4A6F-8201-A6DEBA69E1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40DB465-C708-4035-B81F-E170D7F568B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40DB465-C708-4035-B81F-E170D7F568B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40DB465-C708-4035-B81F-E170D7F568B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40DB465-C708-4035-B81F-E170D7F568B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9907CAD1-4B2F-4E29-A4BE-10087A42C695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9907CAD1-4B2F-4E29-A4BE-10087A42C695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9907CAD1-4B2F-4E29-A4BE-10087A42C695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9907CAD1-4B2F-4E29-A4BE-10087A42C695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54004C93-DDA8-4066-888C-BE6F4E72EB44}
+	EndGlobalSection
+EndGlobal
